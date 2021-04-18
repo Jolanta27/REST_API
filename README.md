@@ -5,7 +5,7 @@ Simple REST API built with Node.js and Express.js
 ABOUT THE PROJECT
 
 This project is entirely made for studies propuses.  The main goal was to feel what's like to develop in node.js :) 
-The API can add, get, update and delete users. 
+The API can add, get, update and delete users. Testet on Postman platform.
 
 How To Run
 
