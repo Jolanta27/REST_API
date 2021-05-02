@@ -10,6 +10,7 @@ The API can add, get, update and delete users. Testet on Postman platform.
 <h3>What have I learned?</h3>
 <p>:pushpin: Understanding REST APIs and how to implement API and use HTTP methods</p>
 <p>:pushpin: I have been familiar with Postman</p>
+<p>:pushpin: I have learned how to implement node and express to the project</p>
       
 <h3>How to open a file? 👀 👀</h3>
 Download Node.js from the official site  https://nodejs.org/en/ 
